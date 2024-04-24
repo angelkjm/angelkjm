@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm 16 years old<br>- 🇲🇽/🇺🇸<br>- Rookie Developer 🚀💻</p>
+<p align="left">- 16 yo<br>- 🇲🇽/🇺🇸<br>- Rookie Developer 🚀💻</p>
 
 ###
 
