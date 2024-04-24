@@ -28,11 +28,11 @@
 
 ###
 
-<a href="portfolio.salomonangel.dev/">My portfolio<a/>
+[My portfolio](https://portfolio.salomonangel.dev/)
 
 ###
 
-<a href="blog.salomonangel.dev/">My blog<a/>
+[My blog](https://blog.salomonangel.dev/)
 
 ###
 
