@@ -28,6 +28,10 @@
 
 ###
 
+<a href="portfolio.salomonangel.dev/">My portfolio<a/>
+<a href="blog.salomonangel.dev/">My blog<a/>
+###
+
 <h3 align="left">🌐 Web Development</h3>
 
 ###
